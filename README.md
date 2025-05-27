@@ -32,7 +32,7 @@ UI,3Dオブジェクト,C#スクリプトをすべて自作しました。
 
 **展示**
 
-コンピュータフェスティバル
+コンピュータフェスティバルにて展示を行いました。
 
 https://github.com/user-attachments/assets/fab936ef-f3c3-4f0e-b4ea-5f60db8a3c79
 
